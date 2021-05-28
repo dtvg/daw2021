@@ -1,0 +1,39 @@
+body{
+	background: url('../IMAGENES/fondo.png') #CF81FC;
+	background-size: 100%;
+	text-align: center;
+	color: #1B2E17;
+}
+
+#miForm{
+	display:block;
+  margin:0 auto;
+  padding:50px;
+  background: url('../IMAGENES/fondoo.gif') #CF81FC;
+  width:300px;
+  height:300px;
+  border-radius: 30px;
+	
+}
+#miForm [type=button] {
+ width: 143px; 
+ padding: 0; 
+  }
+
+.largo {
+ color: #fff; 
+ width: 60px;
+ background: #0C702A;
+ font-size: 28px;
+ font-family: "DK LEMON YELLOW SUN"; 
+}
+.limpiar{
+	color: #fff; 
+ background: #0C702A;
+ font-size: 18px;
+ font-family: "DK LEMON YELLOW SUN"; 
+}
+h6{
+	font-size: 18px;
+	margin:20px;
+}
